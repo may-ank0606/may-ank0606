@@ -23,8 +23,8 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/mayank-arya-819ba9286/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayank-arya-819ba9286" height="30" width="40" /></a>
 <a href="https://github.com/may-ank0606" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="may-ank0606" height="30" width="40" /></a>
-<a href="https://kaggle.com/mayankarya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mayankarya" height="30" width="40" /></a>
-<a href="#" target="blank"><span style="color: #00FF00; font-weight: bold;">Resume</span></a>
+<a href="https://www.kaggle.com/mayankaryads" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mayankaryads" height="30" width="40" /></a>
+<a href="https://drive.google.com/file/d/1W9fWbZWEB-aXeoa27GhTUjyvu-oIZSvn/view?usp=drive_link" target="blank"><span style="color: #00FF00; font-weight: bold;">Resume</span></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
